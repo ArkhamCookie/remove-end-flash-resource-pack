@@ -1,11 +1,7 @@
 {
 	"pack": {
 		"description": "Remove End Flashes",
-		"pack_format": 15,
-		"supported_formats": {
-			"min_inclusive": 69,
-			"max_inclusive": 97
-		},
+		"pack_format": 69,
 		"min_format": [ 69, 0 ],
 		"max_format": [ 97, 1 ]
   }
